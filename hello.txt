@@ -1,1 +1,2 @@
 this is a test for learning git_learning
+this is another line of the file
